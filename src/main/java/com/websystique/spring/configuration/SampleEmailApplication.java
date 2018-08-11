@@ -26,7 +26,7 @@ public class SampleEmailApplication {
 		CustomerInfo customerInfo = new CustomerInfo();
 		customerInfo.setName("ไทย ประกัน");
 		customerInfo.setAddress("WallStreet");
-		customerInfo.setEmail("phasin.td@gmail.com");
+		customerInfo.setEmail("test2@wlmobiles.in.th");
 		order.setCustomerInfo(customerInfo);
 		return order;
 	}
